@@ -1,0 +1,6 @@
+[ 2020-08-03 11:53:14.197296 ] Started Training Model
+[ 2020-08-03 11:53:14.197340 ] Loading CSV Files
+[ 2020-08-03 11:53:15.114266 ] Dataset created
+[ 2020-08-03 11:53:15.134611 ] Training Model
+[ 2020-08-03 11:53:43.573180 ] Model trained
+[ 2020-08-03 11:53:43.573206 ] Saving Model
